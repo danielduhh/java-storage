@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.115.0](https://www.github.com/googleapis/java-storage/compare/v1.114.0...v1.115.0) (2021-05-21)
+
+
+### Features
+
+* add `gcf-owl-bot[bot]` to `ignoreAuthors` ([#837](https://www.github.com/googleapis/java-storage/issues/837)) ([fe8e98a](https://www.github.com/googleapis/java-storage/commit/fe8e98a229f472c1f29d206d937690660bfa1444))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v1.2.0 ([#836](https://www.github.com/googleapis/java-storage/issues/836)) ([c1752ce](https://www.github.com/googleapis/java-storage/commit/c1752ce17d5d723d0ea36c41d98ae2bc9201fec2))
+* update kms.version to v0.88.4 ([#830](https://www.github.com/googleapis/java-storage/issues/830)) ([7e3dc28](https://www.github.com/googleapis/java-storage/commit/7e3dc287e4285a9312393179671a78c569e7e869))
+
 ## [1.114.0](https://www.github.com/googleapis/java-storage/compare/v1.113.16...v1.114.0) (2021-05-13)
 
 
